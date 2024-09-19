@@ -3,12 +3,12 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "<your_name>lib"
+name = "graphs_jpoyner1"
 version = "0.0.1"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name="Jackson D. Poyner", email="jpoyner1@msudenver.edu" },
 ]
-description = "A small example package"
+description = "A package to demonstrate proper packaging"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
